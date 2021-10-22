@@ -1,0 +1,305 @@
+
+.h1{
+    font-family: Mulish;
+    font-style: normal;
+    font-weight: bold;
+    font-size: 50px;
+    line-height: 60px;
+}
+
+.h5-2{
+    color: white;
+    font-weight: bold;
+}
+.p{
+    font-family: Mulish;
+    font-style: normal;
+    font-weight: 300;
+    font-size: 21px;
+    line-height: 32px;
+    color: #7D7987;
+}
+
+.btn-primary{
+    position: static;
+    width: 200px;
+    height: 60px;
+    left: 100px;
+    top: 300px;
+    background: #458FF6;
+    border-radius: 70px;
+    font-family: Mulish;
+    font-style: normal;
+    font-weight: bold;
+    font-size: 18px;
+    line-height: 60px;
+    color: #FFFFFF;
+
+}
+
+
+.cont-1{
+    width: 400px;
+    height: 340px;
+    margin: 109px 109px 0 120px;
+}
+
+.cont-2{
+    display: flex;
+}
+
+.header{
+    height: 109px;
+}
+
+
+.logo-div{
+    margin: 58px 0 0 144px;
+    display: flex;
+    width: 160px;
+    height: 41px;
+
+}
+
+.logo{
+    width: 50px;
+    height: 50px;
+    border-radius: 30%;
+    background-color:  #458FF6;
+    font-family: Mulish;
+    font-style: normal;
+    font-weight: bold;
+    font-size: 40px;
+    color: #FFFFFF;
+    align-content: center;
+    text-align: center;
+
+}
+
+.logo-texto{
+    margin: 6px 0 0 12px;
+    font-family: Mulish;
+    font-style: normal;
+    font-weight: bold;
+    font-size: 24px;
+    line-height: 30px;
+    color: #233348;
+}
+
+h2{
+    font-family: Mulish;
+    font-style: normal;
+    font-weight: bold;
+    font-size: 36px;
+    line-height: 56px;
+    color: #000000;
+    margin-bottom: 50px;
+}
+
+h5 .card-title{
+    font-family: Mulish;
+    font-style: normal;
+    font-weight: 300;
+    font-size: 16px;
+    line-height: 28px;
+    color: #7D7987;
+}
+
+.navbar{
+    margin: 72px 78px 0 0;
+    height: 27px;
+}
+
+.service{
+    text-align: center;
+}
+
+.divider{
+    margin: 0 auto;
+    width: 52px;
+    height: 2px;
+    background-color: black;
+    border-radius: 5px;
+}
+
+.divider2{
+    margin-top: 10px;
+    width: 50px;
+    height: 2px;
+    background-color: black;
+    border-radius: 5px;
+}
+
+.parrafo-centro{
+    margin: 40px auto;
+    width: 60%;
+    text-align: center;
+    height: 60px;
+    max-width: 956px;
+    font-family: Mulish;
+    font-style: normal;
+    font-weight: 300;
+    font-size: 18px;
+    line-height: 30px;
+
+}
+
+.parrafo1{
+    font-family: Mulish;
+    font-style: normal;
+    font-weight: 300;
+    font-size: 18px;
+    line-height: 30px;
+}
+
+.cards-div{
+    width: 80vw;
+    margin: 80px auto 0;
+}
+.card{
+    box-shadow: 10px 40px 50px rgba(229, 233, 246, 0.4);
+    border-radius: 20px;
+    padding: 54px 0 0 37px;
+    min-width: 350px;
+    min-height: 354px;
+    max-width: 350px;
+    max-height: 354px;
+    margin-bottom: 37px;
+
+}
+
+.card-img-top{
+    width: 100px;
+    height: auto;
+    object-fit: contain; 
+    object-position: center;
+    height: 354px;
+width: 70px;
+left: 80px;
+top: 221px;
+border-radius: 240px;
+
+}
+
+
+
+.card-img2{
+    width: 43px;
+    height: auto;
+    object-fit: contain;
+    object-position: center;
+    height: 354px;
+width: 53px;
+left: 40px;
+top: 197px;
+border-radius: 197px;
+
+}
+.card-img3{
+    width: 67px;
+    height: auto;
+    object-fit: contain;
+    object-position: center;
+    height: 354px;
+width: 50px;
+left: 40px;
+top: 244px;
+border-radius: 211px;
+
+}
+.card-img4{
+    width: 60px;
+    height: auto;
+    object-fit: contain;
+    object-position: center;
+    height: 354px;
+width: 50px;
+left: 40px;
+top: 243px;
+border-radius: 212px;
+
+}
+.card-img5{
+    width: 85px;
+    height: auto;
+    object-fit: contain;
+    object-position: center;
+    height: 354px;
+width: 61px;
+left: 57px;
+top: 247px;
+border-radius: 223px;
+
+}
+.card-img6{
+    width: 70px;
+    height: auto;
+    object-fit: contain;
+    object-position: center;
+    height: 354px;
+width: 52px;
+left: 38px;
+top: 242px;
+border-radius: 206px;
+
+}
+
+.btn-outline-primary{
+    padding: 0 0 20px 0;
+    margin: auto;
+    align-content: center;
+    width: 300px;
+    height: 60px;
+    border: 1.4px solid #0f69e7;
+    box-sizing: border-box;
+    border-radius: 60px;
+    font-family: Mulish;
+    font-style: normal;
+    font-weight: bold;
+    font-size: 20px;
+    line-height: 80px;
+    color: #033a8b;
+}
+
+.footer{
+    background-color: rgb(0, 86, 245);
+}
+
+.logo2-div{
+    margin: 58px 0 0 14px;
+    display: flex;
+    width: 160px;
+    height: 41px;
+}
+.logo2{
+    
+    width: 41px;
+    height: 41px;
+    border-radius: 50%;
+    background-color: #FFFFFF;;
+    font-family: Mulish;
+    font-style: normal;
+    font-weight: bold;
+    font-size: 26px;
+    color: #5B9BF3;
+    text-align: center;
+}
+
+.logo-texto2{
+    font-family: Mulish;
+    font-style: normal;
+    font-weight: bold;
+    font-size: 24px;
+    line-height: 30px;
+    color: #FFFFFF;
+}
+
+.fuente-footer{
+    font-family: Mulish;
+    font-style: normal;
+    font-weight: 300;
+    font-size: 18px;
+    line-height: 28px;
+    color: #FFFFFF;
+    text-align: left;
+}
